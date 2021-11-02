@@ -1,2 +1,2 @@
 # MYprofile
-My first profile made purely of CSS and HTML.
+My first Web site made purely of CSS and HTML.
